@@ -4,7 +4,7 @@ import setuptools
 setuptools.setup(
     name="valleytext",
     version="0.1",
-    url='',
+    url='https://github.com/yzho0907/valleytext.git',
     author='young, xiuzhizheng',
     author_email='598299410@qq.com, xiuzhi_zxz@163.com',
     description='Extract keywords from sentences.',
